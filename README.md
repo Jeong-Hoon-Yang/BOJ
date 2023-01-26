@@ -14,3 +14,4 @@ Solved in Baekjoon Online Judge
 |1|3052|17680KB|2112ms|Java|505B|
 |1|10809|18304KB|228ms|Java|547B|
 |1|10871|35208KB|748ms|Java|363B|
+|2|4949|27316KB|508ms|Java|974B|
