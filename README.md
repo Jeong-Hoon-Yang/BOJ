@@ -28,3 +28,4 @@ Solved in Baekjoon Online Judge
 |4|S2|16953|14180KB|132ms|Java|1186B|
 |-|S2|2290|14896KB|184ms|Java|2666B|
 |-|S3|5587|14272KB|152ms|Java|1588B|
+|-|S1|14585|15576KB|152ms|Java|1156B|
