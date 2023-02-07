@@ -34,3 +34,4 @@ Solved in Baekjoon Online Judge
 |Class|Tier|Number|Memory|Time|Language|Code Length|
 |:---:|:---:|:-----|-----:|---:|:------:|----------:|
 |3|G4|14500|31980KB|828ms|Java|9498B|
+|4|G3|1865|24576KB|1016ms|Java|2649B|
