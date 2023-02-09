@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class BOJ_3687 {
+public class BOJ_2156 {
 	static int[] drinks;
 	static int[] dp;
 
