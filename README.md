@@ -33,6 +33,7 @@ Solved in Baekjoon Online Judge
 |-|S3|15650|14412KB|132ms|Java|1238B|
 |-|S1|2156|14976KB|148ms|Java|803B|
 |-|S2|2961|14352KB|124ms|Java|1280B|
+|-|S2|12891|20228KB|308ms|Java|1702B|
 
 ### Gold
 |Class|Tier|Number|Memory|Time|Language|Code Length|
@@ -44,3 +45,4 @@ Solved in Baekjoon Online Judge
 |-|G4|1717|60216KB|788ms|Java|1625B|
 |-|G3|2457|53228KB|1112ms|Java|2453B|
 |-|G2|3687|14056KB|124ms|Java|1445B|
+|-|G2|2023|14280KB|124ms|Java|1212B|
