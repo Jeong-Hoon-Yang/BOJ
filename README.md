@@ -43,3 +43,4 @@ Solved in Baekjoon Online Judge
 |3|G5|10026|15056KB|140ms|Java|2718B|
 |-|G4|1717|60216KB|788ms|Java|1625B|
 |-|G3|2457|53228KB|1112ms|Java|2453B|
+|-|G2|3687|14056KB|124ms|Java|1445B|
