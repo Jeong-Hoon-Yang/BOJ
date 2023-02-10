@@ -18,6 +18,7 @@ Solved in Baekjoon Online Judge
 |2|B1|2869|14096KB|120ms|Java|932B|
 |2|B2|2292|17744KB|212ms|Java|310B|
 |2|B1|2775|14092KB|124ms|Java|961B|
+|2|B2|15829|14196KB|128ms|Java|554B|
 |-|B1|2596|17632KB|208ms|Java|1939B|
 
 ### Silver
