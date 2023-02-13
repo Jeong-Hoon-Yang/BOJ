@@ -42,6 +42,7 @@ Solved in Baekjoon Online Judge
 |-|S1|2156|14976KB|148ms|Java|803B|
 |-|S2|2961|14352KB|124ms|Java|1280B|
 |-|S2|12891|20228KB|308ms|Java|1702B|
+|-|S4|1158|15048KB|176ms|Java|907B|
 
 ### Gold
 |Class|Tier|Number|Memory|Time|Language|Code Length|
