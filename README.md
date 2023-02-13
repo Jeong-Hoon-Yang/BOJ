@@ -54,6 +54,7 @@ Solved in Baekjoon Online Judge
 |-|G3|2457|53228KB|1112ms|Java|2453B|
 |-|G2|3687|14056KB|124ms|Java|1445B|
 |-|G5|2023|14280KB|124ms|Java|1212B|
+|-|G5|11000|67944KB|712ms|Java|1408B|
 
 ### Platinum
 |Class|Tier|Number|Memory|Time|Language|Code Length|
