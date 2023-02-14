@@ -48,9 +48,10 @@ Solved in Baekjoon Online Judge
 |Class|Tier|Number|Memory|Time|Language|Code Length|
 |:---:|:---:|:-----|-----:|---:|:------:|----------:|
 |3|G4|14500|31980KB|828ms|Java|9498B|
+|3|G5|10026|15056KB|140ms|Java|2718B|
+|3|G4|9019|313820KB|3440ms|Java|1822B|
 |4|G3|1865|24576KB|1016ms|Java|2649B|
 |5|G1|17143|29828KB|2540ms|Java|3951B|
-|3|G5|10026|15056KB|140ms|Java|2718B|
 |-|G4|1717|60216KB|788ms|Java|1625B|
 |-|G3|2457|53228KB|1112ms|Java|2453B|
 |-|G2|3687|14056KB|124ms|Java|1445B|
