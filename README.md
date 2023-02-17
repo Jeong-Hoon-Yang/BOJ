@@ -21,6 +21,7 @@ Solved in Baekjoon Online Judge
 |2|B2|15829|14196KB|128ms|Java|554B|
 |-|B1|2596|17632KB|208ms|Java|1939B|
 |-|B1|10163|24840KB|288ms|Java|1217B|
+|-|B2|3040|14156KB|120ms|Java|866B|
 
 ### Silver
 |Class|Tier|Number|Memory|Time|Language|Code Length|
