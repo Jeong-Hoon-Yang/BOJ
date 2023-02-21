@@ -79,6 +79,7 @@ Solved in Baekjoon Online Judge
 |-|G4|20056|47660KB|788ms|Java|3488B|
 |-|G3|2252|47452KB|4612ms|Java|1678B|
 |-|G5|6987|14276KB|128ms|Java|2911B|
+|-|G2|3109|39884KB|424ms|Java|1701B|
 
 ### Platinum
 |Class|Tier|Number|Memory|Time|Language|Code Length|
