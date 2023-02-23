@@ -56,6 +56,7 @@ Solved in Baekjoon Online Judge
 |-|S5|2563|14144KB|128ms|Java|886B|
 |-|S1|1074|14200KB|124ms|Java|1513B|
 |-|S2|1260|24608KB|448ms|Java|1857B|
+|-|S1|1697|53268KB|240ms|Java|1219B|
 
 ### Gold
 |Class|Tier|Number|Memory|Time|Language|Code Length|
