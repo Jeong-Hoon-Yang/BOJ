@@ -95,3 +95,4 @@ Solved in Baekjoon Online Judge
 |Class|Tier|Number|Memory|Time|Language|Code Length|
 |:---:|:---:|:-----|-----:|---:|:------:|----------:|
 |5|P5|2887|89984KB|1584ms|Java|3128B|
+|-|P5|14865|259320KB|1080ms|Java|4052B|
