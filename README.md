@@ -110,6 +110,7 @@ Solved in Baekjoon Online Judge
 |   -   |  G4  | 14267   |  77376KB | 1536ms |   Java   |       1305B |
 |   -   |  G3  | 1600    |  61420KB |  552ms |   Java   |       2563B |
 |   -   |  G3  | 2533    | 404164KB | 1884ms |   Java   |       1498B |
+|   -   |  G2  | 16985   | 318052KB | 1588ms |   Java   |       1588B |
 
 ### Platinum
 
