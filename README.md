@@ -65,7 +65,7 @@ Solved in Baekjoon Online Judge
 ### Gold
 
 | Class | Tier | Number  |   Memory |   Time | Language | Code Length |
-| :---: | :--: | :------ | -------: | -----: | :------: | ----------: | ----- |
+| :---: | :--: | :------ | -------: | -----: | :------: | ----------: |
 |   3   |  G4  | 14500   |  31980KB |  828ms |   Java   |       9498B |
 |   3   |  G5  | 10026   |  15056KB |  140ms |   Java   |       2718B |
 |   3   |  G4  | 9019    | 313820KB | 3440ms |   Java   |       1822B |
@@ -111,7 +111,8 @@ Solved in Baekjoon Online Judge
 |   -   |  G3  | 1600    |  61420KB |  552ms |   Java   |       2563B |
 |   -   |  G3  | 2533    | 404164KB | 1884ms |   Java   |       1498B |
 |   -   |  G2  | 16985   | 318052KB | 1588ms |   Java   |       1588B |
-|   -   |  G4  | 1062    |  15700KB |  392ms |  1739B   |        Java | 1739B |
+|   -   |  G4  | 1062    |  15700KB |  392ms |   Java   |       1739B |
+|   -   |  G4  | 13424   |  41892KB |  476ms |   Java   |       2638B |
 
 ### Platinum
 
