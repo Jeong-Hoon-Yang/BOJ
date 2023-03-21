@@ -114,6 +114,7 @@ Solved in Baekjoon Online Judge
 |   -   |  G4  | 1062    |  15700KB |  392ms |   Java   |       1739B |
 |   -   |  G4  | 13424   |  41892KB |  476ms |   Java   |       2638B |
 |   -   |  G3  | 1941    | 220820KB |  600ms |   Java   |       2601B |
+|   -   |  G3  | 1937    |  37228KB |  548ms |   Java   |       1831B |
 
 ### Platinum
 
