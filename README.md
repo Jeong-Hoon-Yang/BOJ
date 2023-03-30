@@ -61,6 +61,7 @@ Solved in Baekjoon Online Judge
 |   -   |  S2  | 1260   |  24608KB |  448ms |   Java   |       1857B |
 |   -   |  S1  | 1697   |  53268KB |  240ms |   Java   |       1219B |
 |   -   |  S2  | 1541   |  14248KB |  128ms |   Java   |       1474B |
+|   -   |  S2  | 10971  |  14600KB |  248ms |   Java   |       1552B |
 
 ### Gold
 
@@ -118,6 +119,8 @@ Solved in Baekjoon Online Judge
 |   -   |  G4  | 9663    |  14744KB | 5612ms |   Java   |       1367B |
 |   -   |  G3  | 14621   |  20924KB |  240ms |   Java   |       2587B |
 |   -   |  G5  | 17070   |  14272KB |  132ms |   Java   |       1486B |
+|   -   |  G4  | 4485    |  20580KB |  256ms |   Java   |       2847B |
+|   -   |  G4  | 14502   | 106768KB |  488ms |   Java   |       3238B |
 
 ### Platinum
 
