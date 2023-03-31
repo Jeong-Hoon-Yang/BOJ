@@ -122,6 +122,7 @@ Solved in Baekjoon Online Judge
 |   -   |  G4  | 4485    |  20580KB |  256ms |   Java   |       2847B |
 |   -   |  G4  | 14502   | 106768KB |  488ms |   Java   |       3238B |
 |   -   |  G4  | 2239    |  19420KB |  792ms |   Java   |       2253B |
+|   -   |  G1  | 1194    |  15444KB |  156ms |   Java   |       4028B |
 
 ### Platinum
 
