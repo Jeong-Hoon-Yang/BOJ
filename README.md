@@ -130,6 +130,7 @@ Solved in Baekjoon Online Judge
 |   -   |  G5  | 5972    |  40968KB |  508ms |   Java   |       2172B |
 |   -   |  G1  | 17472   |  14360KB |  132ms |   Java   |       5611B |
 |   -   |  G1  | 9328    |  22404KB |  248ms |   Java   |       6942B |
+|   -   |  G4  | 13172   |  20104KB |  228ms |   Java   |       1253B |
 
 ### Platinum
 
