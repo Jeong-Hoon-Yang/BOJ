@@ -78,6 +78,7 @@ Solved in Baekjoon Online Judge
 |   4   |  G5  | 12865   |  14612KB |  160ms |   Java   |       1113B |
 |   4   |  G5  | 2096    |  47236KB |  400ms |   Java   |       1690B |
 |   4   |  G4  | 1504    |  69008KB |  636ms |   Java   |       3009B |
+|   4   |  G4  | 1043    |  14388KB |  128ms |   Java   |       2696B |
 |   5   |  G1  | 17143   |  29828KB | 2540ms |   Java   |       3951B |
 |   5   |  G2  | 12100   |  21592KB |  200ms |   Java   |       4858B |
 |   5   |  G2  | 12015   |  96108KB |  544ms |   Java   |       1068B |
