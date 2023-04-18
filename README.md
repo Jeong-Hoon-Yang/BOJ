@@ -135,6 +135,7 @@ Solved in Baekjoon Online Judge
 |   -   |  G4  | 13172   |  20104KB |  228ms |   Java   |       1253B |
 |   -   |  G2  | 17136   |  20548KB |  232ms |   Java   |       2076B |
 |   -   |  G4  | 16472   |  15644KB |  160ms |   Java   |       1036B |
+|   -   |  G3  | 2151    |  15268KB |  132ms |   Java   |       4260B |
 
 ### Platinum
 
